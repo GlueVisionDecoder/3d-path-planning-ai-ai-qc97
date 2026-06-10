@@ -1,4 +1,4 @@
-# 
+# Código aberto 3D Path Planning AI modelos. Com treinamento de modelos e visão computacional — otimizado para máximo desempenho.
 
 
 
